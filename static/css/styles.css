@@ -1,0 +1,19 @@
+/*
+* @Author: eswizardry
+* @Date:   2016-09-16 14:30:02
+* @Last Modified by:   eswizardry
+* @Last Modified time: 2016-09-16 14:41:58
+*/
+.container{
+    background: #7FF5FF;
+    margin: 2em auto;
+    padding: 0.8em;
+    width: 40em;
+    border: 2px solid #000;
+}
+
+.flash, .error{
+    background: #F8043E;
+    color: #FFFFFF;
+    padding: 0.5em;
+}
